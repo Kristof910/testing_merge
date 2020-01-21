@@ -1,1 +1,1 @@
-print("hello 987 world")
+print("apple")
